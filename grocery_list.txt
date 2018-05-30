@@ -4,3 +4,4 @@ fruits
 vegetables
 avocados
 pasta
+chips
