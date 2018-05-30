@@ -1,6 +1,6 @@
-water
 milk
 cereal
 fruits
 vegetables
 avocados
+pasta
