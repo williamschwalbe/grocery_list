@@ -4,3 +4,7 @@ cereal
 fruits
 vegetables
 avocados
+witblits
+dip
+chips
+moonshine
